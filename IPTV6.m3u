@@ -216,12 +216,6 @@ http://epg.112114.xyz/douyu/20415
 ######EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://nos.gameyw.netease.com/gameyw-gbox/1452660377686_xyrihe.jpg" group-title="Movie",汽车-TopGear-斗鱼
 ######http://epg.112114.xyz/douyu/501455
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://nos.gameyw.netease.com/gameyw-gbox/1452660377686_xyrihe.jpg" group-title="Movie",纪录片-军武-斗鱼
-http://epg.112114.xyz/douyu/227670
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://nos.gameyw.netease.com/gameyw-gbox/1452660377686_xyrihe.jpg" group-title="Movie",纪录片-咸鱼-斗鱼
-http://epg.112114.xyz/douyu/442280
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://nos.gameyw.netease.com/gameyw-gbox/1452660377686_xyrihe.jpg" group-title="Movie",纪录片-dadaci-斗鱼
 http://epg.112114.xyz/douyu/5854464
 
@@ -233,6 +227,12 @@ http://epg.112114.xyz/douyu/4837387
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://nos.gameyw.netease.com/gameyw-gbox/1452660377686_xyrihe.jpg" group-title="Movie",纪录片-宁波-斗鱼
 http://epg.112114.xyz/douyu/1052924
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://nos.gameyw.netease.com/gameyw-gbox/1452660377686_xyrihe.jpg" group-title="Movie",纪录片-军武-斗鱼
+http://epg.112114.xyz/douyu/227670
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://nos.gameyw.netease.com/gameyw-gbox/1452660377686_xyrihe.jpg" group-title="Movie",纪录片-咸鱼-斗鱼
+http://epg.112114.xyz/douyu/442280
 
 ######EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://nos.gameyw.netease.com/gameyw-gbox/1452660377686_xyrihe.jpg" group-title="Movie",纪录片-酷炫-斗鱼
 ######http://epg.112114.xyz/douyu/454867
@@ -284,7 +284,7 @@ http://epg.112114.xyz/douyu/206858
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://nos.gameyw.netease.com/gameyw-gbox/1452660377686_xyrihe.jpg" group-title="Movie",动漫-草帽-斗鱼
 http://epg.112114.xyz/douyu/997925
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://nos.gameyw.netease.com/gameyw-gbox/1452660377686_xyrihe.jpg" group-title="Movie",特摄-卡面-斗鱼
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://nos.gameyw.netease.com/gameyw-gbox/1452660377686_xyrihe.jpg" group-title="Movie",动漫-卡面-斗鱼
 http://epg.112114.xyz/douyu/1218414
 
 
