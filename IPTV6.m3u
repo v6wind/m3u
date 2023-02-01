@@ -1,0 +1,432 @@
+#EXTM3U x-tvg-url="https://epg.112114.xyz/pp.xml"
+
+
+#···········································HK···········································
+
+#EXTINF:-1 tvg-id="83" tvg-name="无线新闻" tvg-logo="https://i.pinimg.com/originals/c4/e4/1f/c4e41fc61929bfd7f871812906f17127.png" group-title="HK",無綫新聞台
+https://cdn.hklive.tv/xxxx/83/index.m3u8
+#EXTINF:-1 tvg-id="85" tvg-name="无线财经" tvg-logo="https://i.pinimg.com/originals/c4/e4/1f/c4e41fc61929bfd7f871812906f17127.png" group-title="HK",無綫財經·資訊台
+https://cdn.hklive.tv/xxxx/85/index.m3u8
+
+#EXTINF:-1 tvg-id="109" tvg-name="有线新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/youxianxinwen.png" group-title="HK",有線新聞台
+https://cdn.hklive.tv/xxxx/109/index.m3u8
+#EXTINF:-1 tvg-id="108" tvg-name="有线财经资讯台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/youxiancaijingzixun.png" group-title="HK",有線財經資訊台
+https://cdn.hklive.tv/xxxx/108/index.m3u8
+
+#EXTINF:-1 tvg-id="332" tvg-name="NOW新闻台" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/24/Now_TV_logo.svg.png/revision/latest?cb=20150915100913" group-title="HK",NOW新闻台
+https://cdn.hklive.tv/xxxx/332/index.m3u8
+
+#EXTINF:-1 tvg-id="84" tvg-name="明珠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB%E6%98%8E%E7%8F%A0%E5%8F%B0.png" group-title="HK",明珠台
+https://cdn.hklive.tv/xxxx/84/index.m3u8
+
+#EXTINF:-1 tvg-id="81" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB%E7%BF%A1%E7%BF%A0%E5%8F%B0.png" group-title="HK",翡翠台
+https://cdn.hklive.tv/xxxx/81/index.m3u8
+#EXTINF:-1 tvg-id="82" tvg-name="J2" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBJ2.png" group-title="HK",J2台
+https://cdn.hklive.tv/xxxx/82/index.m3u8
+
+#EXTINF:-1 tvg-id="99" tvg-name="ViuTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/ViuTV_logo.svg/1280px-ViuTV_logo.svg.png" group-title="HK",ViuTV
+https://cdn.hklive.tv/xxxx/99/index.m3u8
+#EXTINF:-1 tvg-id="96" tvg-name="VIUTVSIX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ViuTVsix-logo.svg/1280px-ViuTVsix-logo.svg.png" group-title="HK",ViuTV Six
+https://cdn.hklive.tv/xxxx/96/index.m3u8
+
+#EXTINF:-1 tvg-id="77" tvg-name="香港开电视" tvg-logo="https://www.hklive.tv/png_logo/77.png" group-title="HK",香港開電視
+https://cdn.hklive.tv/xxxx/77/index.m3u8
+#EXTINF:-1 tvg-id="76" tvg-name="香港国际财经台" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/3/3a/HKIBC_logo.png" group-title="HK",香港國際財經台
+https://cdn.hklive.tv/xxxx/76/index.m3u8
+
+#EXTINF:-1 tvg-id="31" tvg-name="港台電視31" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Radio_Television_Hong_Kong_Logo.svg/1280px-Radio_Television_Hong_Kong_Logo.svg.png" group-title="HK",港台電視31
+https://cdn.hklive.tv/xxxx/31/index.m3u8
+#EXTINF:-1 tvg-id="32" tvg-name="港台電視32" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Radio_Television_Hong_Kong_Logo.svg/1280px-Radio_Television_Hong_Kong_Logo.svg.png" group-title="HK",港台電視32
+https://cdn.hklive.tv/xxxx/32/index.m3u8
+
+
+#···········································4K···········································
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.chinatft.org/static/admin/kindeditor/attached/image/20181012/20181012104156_15574.jpg" group-title="Movie",4K影视
+http://159.75.85.63:5828/4kys.php
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.jsdelivr.net/gh/youshandefeiyang/IPTV/logo/4kcgq.png" group-title="Movie",4K超高清电影
+http://159.75.85.63:5681/sxg.php
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/aishang4k.png" group-title="Movie",爱上4K-海南
+http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000459/index.m3u8?IAS
+
+#···········································Huya···········································
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.pngkit.com/png/full/42-424742_huya-.png" group-title="Movie",热播大片
+http://txtest-xp2p.p2p.huya.com/src/1423782052-1423782052-6115097349971771392-2847687560-10057-A-0-1.xs
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.pngkit.com/png/full/42-424742_huya-.png" group-title="Movie",周星驰「粤语」
+http://txtest-xp2p.p2p.huya.com/src/1250011-1250011-5368756364640256-2777036638-10057-A-0-1.xs
+
+#···········································Canton···········································
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://nos.gameyw.netease.com/gameyw-gbox/1452660377686_xyrihe.jpg" group-title="Movie",粤语-斗鱼
+http://epg.112114.xyz/douyu/6566671
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://nos.gameyw.netease.com/gameyw-gbox/1452660377686_xyrihe.jpg" group-title="Movie",粤语-话事人-斗鱼
+http://epg.112114.xyz/douyu/5033502
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://nos.gameyw.netease.com/gameyw-gbox/1452660377686_xyrihe.jpg" group-title="Movie",粤语电影-斗鱼
+http://epg.112114.xyz/douyu/1226741
+
+######EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://nos.gameyw.netease.com/gameyw-gbox/1452660377686_xyrihe.jpg" group-title="Movie",粤语剧-豆腐帮-斗鱼
+######http://epg.112114.xyz/douyu/6478650
+
+######EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://nos.gameyw.netease.com/gameyw-gbox/1452660377686_xyrihe.jpg" group-title="Movie",粤语剧-电视BB-斗鱼
+######http://epg.112114.xyz/douyu/742565
+
+#···········································Film···········································
+
+
+######EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://nos.gameyw.netease.com/gameyw-gbox/1452660377686_xyrihe.jpg" group-title="Movie",电影-花卷-斗鱼
+######http://epg.112114.xyz/douyu/52787
+
+######EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://nos.gameyw.netease.com/gameyw-gbox/1452660377686_xyrihe.jpg" group-title="Movie",电影-蚂蚱-斗鱼
+######http://epg.112114.xyz/douyu/6621
+
+######EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://nos.gameyw.netease.com/gameyw-gbox/1452660377686_xyrihe.jpg" group-title="Movie",电影-姽婳-斗鱼
+######http://epg.112114.xyz/douyu/1409682
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://nos.gameyw.netease.com/gameyw-gbox/1452660377686_xyrihe.jpg" group-title="Movie",豆瓣高分-斗鱼
+http://epg.112114.xyz/douyu/8770422
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://nos.gameyw.netease.com/gameyw-gbox/1452660377686_xyrihe.jpg" group-title="Movie",电影-网神-斗鱼
+http://epg.112114.xyz/douyu/508118
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://nos.gameyw.netease.com/gameyw-gbox/1452660377686_xyrihe.jpg" group-title="Movie",电影-邦德-斗鱼
+http://epg.112114.xyz/douyu/9292499
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://nos.gameyw.netease.com/gameyw-gbox/1452660377686_xyrihe.jpg" group-title="Movie",电影-麓山-斗鱼
+http://epg.112114.xyz/douyu/4505431
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://nos.gameyw.netease.com/gameyw-gbox/1452660377686_xyrihe.jpg" group-title="Movie",电影-小饼-斗鱼
+http://epg.112114.xyz/douyu/1735337
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://nos.gameyw.netease.com/gameyw-gbox/1452660377686_xyrihe.jpg" group-title="Movie",电影-️冰冰-斗鱼
+http://epg.112114.xyz/douyu/74374
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://nos.gameyw.netease.com/gameyw-gbox/1452660377686_xyrihe.jpg" group-title="Movie",电影-怡宝-斗鱼
+http://epg.112114.xyz/douyu/434971
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://nos.gameyw.netease.com/gameyw-gbox/1452660377686_xyrihe.jpg" group-title="Movie",电影-贝爷影厅-斗鱼
+http://epg.112114.xyz/douyu/36337
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://nos.gameyw.netease.com/gameyw-gbox/1452660377686_xyrihe.jpg" group-title="Movie",电影-高兴-斗鱼
+http://epg.112114.xyz/douyu/7305938
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://nos.gameyw.netease.com/gameyw-gbox/1452660377686_xyrihe.jpg" group-title="Movie",电影-凌儿-斗鱼
+http://epg.112114.xyz/douyu/1377142
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://nos.gameyw.netease.com/gameyw-gbox/1452660377686_xyrihe.jpg" group-title="Movie",电影-小宇-斗鱼
+http://epg.112114.xyz/douyu/323876
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://nos.gameyw.netease.com/gameyw-gbox/1452660377686_xyrihe.jpg" group-title="Movie",电影-兔兔-斗鱼
+http://epg.112114.xyz/douyu/1504768
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://nos.gameyw.netease.com/gameyw-gbox/1452660377686_xyrihe.jpg" group-title="Movie",电影-奶虫-斗鱼
+http://epg.112114.xyz/douyu/263824
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://nos.gameyw.netease.com/gameyw-gbox/1452660377686_xyrihe.jpg" group-title="Movie",电影-女神金-斗鱼
+http://epg.112114.xyz/douyu/747764
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://nos.gameyw.netease.com/gameyw-gbox/1452660377686_xyrihe.jpg" group-title="Movie",电影-贝爷MAX-斗鱼
+http://epg.112114.xyz/douyu/4332
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://nos.gameyw.netease.com/gameyw-gbox/1452660377686_xyrihe.jpg" group-title="Movie",电影-小U-斗鱼
+http://epg.112114.xyz/douyu/96577
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://nos.gameyw.netease.com/gameyw-gbox/1452660377686_xyrihe.jpg" group-title="Movie",电影-小鸭-斗鱼
+http://epg.112114.xyz/douyu/7925840
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://nos.gameyw.netease.com/gameyw-gbox/1452660377686_xyrihe.jpg" group-title="Movie",电影-贝贝-斗鱼
+http://epg.112114.xyz/douyu/431460
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://nos.gameyw.netease.com/gameyw-gbox/1452660377686_xyrihe.jpg" group-title="Movie",电影-梁十一-斗鱼
+http://epg.112114.xyz/douyu/7270927
+
+#···········································Eng···········································
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://nos.gameyw.netease.com/gameyw-gbox/1452660377686_xyrihe.jpg" group-title="Movie",欧美-贝爷-斗鱼
+http://epg.112114.xyz/douyu/252802
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://nos.gameyw.netease.com/gameyw-gbox/1452660377686_xyrihe.jpg" group-title="Movie",欧美-苹果-斗鱼
+http://epg.112114.xyz/douyu/2793084
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://nos.gameyw.netease.com/gameyw-gbox/1452660377686_xyrihe.jpg" group-title="Movie",欧美-可乐-斗鱼
+http://epg.112114.xyz/douyu/20415
+
+######EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://nos.gameyw.netease.com/gameyw-gbox/1452660377686_xyrihe.jpg" group-title="Movie",欧美-s1134-斗鱼
+######http://epg.112114.xyz/douyu/248753
+
+######EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://nos.gameyw.netease.com/gameyw-gbox/1452660377686_xyrihe.jpg" group-title="Movie",欧美-小小-斗鱼
+######http://epg.112114.xyz/douyu/5802446
+
+
+#···········································Mandarin···········································
+
+
+######EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://nos.gameyw.netease.com/gameyw-gbox/1452660377686_xyrihe.jpg" group-title="Movie",国语-小鸽-斗鱼
+######http://epg.112114.xyz/douyu/3928
+
+######EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://nos.gameyw.netease.com/gameyw-gbox/1452660377686_xyrihe.jpg" group-title="Movie",国语-米虫-斗鱼
+######http://epg.112114.xyz/douyu/315457
+
+######EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://nos.gameyw.netease.com/gameyw-gbox/1452660377686_xyrihe.jpg" group-title="Movie",国语-瑶瑶-斗鱼
+######http://epg.112114.xyz/douyu/2935323
+
+######EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://nos.gameyw.netease.com/gameyw-gbox/1452660377686_xyrihe.jpg" group-title="Movie",国语-表妹-斗鱼
+######http://epg.112114.xyz/douyu/5423
+
+######EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://nos.gameyw.netease.com/gameyw-gbox/1452660377686_xyrihe.jpg" group-title="Movie",国语-恐怖-斗鱼
+######http://epg.112114.xyz/douyu/310926
+
+######EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://nos.gameyw.netease.com/gameyw-gbox/1452660377686_xyrihe.jpg" group-title="Movie",国语剧-辰辰-斗鱼
+######http://epg.112114.xyz/douyu/7623292
+
+######EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://nos.gameyw.netease.com/gameyw-gbox/1452660377686_xyrihe.jpg" group-title="Movie",国语剧-赛亚人-斗鱼
+######http://epg.112114.xyz/douyu/4373285
+
+######EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://nos.gameyw.netease.com/gameyw-gbox/1452660377686_xyrihe.jpg" group-title="Movie",国语剧-童年-斗鱼
+######http://epg.112114.xyz/douyu/6712083
+
+######EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://nos.gameyw.netease.com/gameyw-gbox/1452660377686_xyrihe.jpg" group-title="Movie",国语剧-橙記-斗鱼
+######http://epg.112114.xyz/douyu/4549169
+
+#···········································RunningMan···········································
+
+
+######EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://nos.gameyw.netease.com/gameyw-gbox/1452660377686_xyrihe.jpg" group-title="Movie",RM-轮播-斗鱼
+######http://epg.112114.xyz/douyu/7298973
+
+######EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://nos.gameyw.netease.com/gameyw-gbox/1452660377686_xyrihe.jpg" group-title="Movie",RM-直播-斗鱼
+######http://epg.112114.xyz/douyu/131977
+
+
+#···········································Documentary···········································
+
+
+######EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://nos.gameyw.netease.com/gameyw-gbox/1452660377686_xyrihe.jpg" group-title="Movie",汽车-TopGear-斗鱼
+######http://epg.112114.xyz/douyu/501455
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://nos.gameyw.netease.com/gameyw-gbox/1452660377686_xyrihe.jpg" group-title="Movie",纪录片-军武-斗鱼
+http://epg.112114.xyz/douyu/227670
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://nos.gameyw.netease.com/gameyw-gbox/1452660377686_xyrihe.jpg" group-title="Movie",纪录片-咸鱼-斗鱼
+http://epg.112114.xyz/douyu/442280
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://nos.gameyw.netease.com/gameyw-gbox/1452660377686_xyrihe.jpg" group-title="Movie",纪录片-dadaci-斗鱼
+http://epg.112114.xyz/douyu/5854464
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://nos.gameyw.netease.com/gameyw-gbox/1452660377686_xyrihe.jpg" group-title="Movie",纪录片-约吧-斗鱼
+http://epg.112114.xyz/douyu/4360438
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://nos.gameyw.netease.com/gameyw-gbox/1452660377686_xyrihe.jpg" group-title="Movie",纪录片-小沫-斗鱼
+http://epg.112114.xyz/douyu/4837387
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://nos.gameyw.netease.com/gameyw-gbox/1452660377686_xyrihe.jpg" group-title="Movie",纪录片-宁波-斗鱼
+http://epg.112114.xyz/douyu/1052924
+
+######EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://nos.gameyw.netease.com/gameyw-gbox/1452660377686_xyrihe.jpg" group-title="Movie",纪录片-酷炫-斗鱼
+######http://epg.112114.xyz/douyu/454867
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://nos.gameyw.netease.com/gameyw-gbox/1452660377686_xyrihe.jpg" group-title="Movie",纪录片-黄粱一梦-斗鱼
+http://epg.112114.xyz/douyu/9650849
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://nos.gameyw.netease.com/gameyw-gbox/1452660377686_xyrihe.jpg" group-title="Movie",美食家-懒猫-斗鱼
+http://epg.112114.xyz/douyu/260322
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://nos.gameyw.netease.com/gameyw-gbox/1452660377686_xyrihe.jpg" group-title="Movie",美食家-刀刀-斗鱼
+http://epg.112114.xyz/douyu/6733133
+
+
+#···········································MV···········································
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://nos.gameyw.netease.com/gameyw-gbox/1452660377686_xyrihe.jpg" group-title="Movie",MV-竹叶-斗鱼
+http://epg.112114.xyz/douyu/3870925
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://nos.gameyw.netease.com/gameyw-gbox/1452660377686_xyrihe.jpg" group-title="Movie",MV-周杰伦-斗鱼
+http://epg.112114.xyz/douyu/7537296
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://nos.gameyw.netease.com/gameyw-gbox/1452660377686_xyrihe.jpg" group-title="Movie",MV-女团-斗鱼
+http://epg.112114.xyz/douyu/340224
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://nos.gameyw.netease.com/gameyw-gbox/1452660377686_xyrihe.jpg" group-title="Movie",MV-最强女团-斗鱼
+http://epg.112114.xyz/douyu/329667
+
+
+#···········································ACG···········································
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://nos.gameyw.netease.com/gameyw-gbox/1452660377686_xyrihe.jpg" group-title="Movie",动漫-小吃街-斗鱼
+http://epg.112114.xyz/douyu/5592587
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://nos.gameyw.netease.com/gameyw-gbox/1452660377686_xyrihe.jpg" group-title="Movie",动漫-烟花-斗鱼
+http://epg.112114.xyz/douyu/1487654
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://nos.gameyw.netease.com/gameyw-gbox/1452660377686_xyrihe.jpg" group-title="Movie",动漫-花园-斗鱼
+http://epg.112114.xyz/douyu/426517
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://nos.gameyw.netease.com/gameyw-gbox/1452660377686_xyrihe.jpg" group-title="Movie",动漫-Zei甜-斗鱼
+http://epg.112114.xyz/douyu/1174353
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://nos.gameyw.netease.com/gameyw-gbox/1452660377686_xyrihe.jpg" group-title="Movie",动漫-所有人-斗鱼
+http://epg.112114.xyz/douyu/206858
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://nos.gameyw.netease.com/gameyw-gbox/1452660377686_xyrihe.jpg" group-title="Movie",动漫-草帽-斗鱼
+http://epg.112114.xyz/douyu/997925
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://nos.gameyw.netease.com/gameyw-gbox/1452660377686_xyrihe.jpg" group-title="Movie",特摄-卡面-斗鱼
+http://epg.112114.xyz/douyu/1218414
+
+
+#···········································CCTV···········································
+
+
+#EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="CCTV",凤凰资讯-福建
+http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221227226/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
+
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="CCTV",CCTV1-综合-福建
+http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221225922/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
+
+#EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="CCTV",CCTV2-财经-福建
+http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221226795/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
+
+#EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" group-title="CCTV",CCTV4-国际-福建
+http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221225802/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
+
+#EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="CCTV",CCTV5-体育-福建
+http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221227229/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
+
+#EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="CCTV",CCTV5+-体育赛事-福建
+http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221225821/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
+
+#EXTINF:-1 tvg-id="7" tvg-name="CCTV6" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" group-title="CCTV",CCTV6-电影-福建
+http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221227137/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
+
+#EXTINF:-1 tvg-id="9" tvg-name="CCTV8" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV8.png" group-title="CCTV",CCTV8-电视剧-福建
+http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221227174/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
+
+#EXTINF:-1 tvg-id="10" tvg-name="CCTV9" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV9.png" group-title="CCTV",CCTV9-纪录-福建
+http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221225929/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
+
+#EXTINF:-1 tvg-id="14" tvg-name="CCTV13" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" group-title="CCTV",CCTV13-新闻-福建
+http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221226985/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
+
+#EXTINF:-1 tvg-id="7249" tvg-name="CCTV16" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="CCTV",CCTV16-奥林匹克-福建
+http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221227148/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
+
+#EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="CCTV",湖南卫视-福建
+http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221225827/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
+
+#EXTINF:-1 tvg-id="31" tvg-name="东方卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png" group-title="CCTV",东方卫视-福建
+http://[2409:8087:3428:20:500::1009]:6610/PLTV/88888888/224/3221225828/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
+
+#EXTINF:-1 tvg-id="28" tvg-name="浙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/zhejiang.png" group-title="CCTV",浙江卫视-福建
+http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221227193/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
+
+#EXTINF:-1 tvg-id="29" tvg-name="江苏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangsu.png" group-title="CCTV",江苏卫视-福建
+http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221227160/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
+
+#EXTINF:-1 tvg-id="" tvg-name="纯享4K" tvg-logo="https://cdn.jsdelivr.net/gh/youshandefeiyang/IPTV/logo/cx4k.png" group-title="CCTV",纯享4K-福建
+http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221226825/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
+
+#EXTINF:-1 tvg-id="" tvg-name="芒果4K" tvg-logo="https://play-lh.googleusercontent.com/xAIOIZ8hnuB4bDAXGhliWlHCXw1rOFmnl--5xvgXzkVhF5gOIjX0Xu9PRyl-DWZYtmw=w600-h300-pc0xffffff-pd" group-title="CCTV",芒果4K-福建
+http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221226887/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="CCTV",CCTV1-综合-江西移动 
+http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225618/index.m3u8
+
+#EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="CCTV",CCTV2-财经-江西移动 
+http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225643/index.m3u8
+
+#EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" group-title="CCTV",CCTV4-国际-江西移动
+http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225621/index.m3u8
+
+#EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="CCTV",CCTV5-体育-江西移动
+http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225633/index.m3u8
+
+#EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="CCTV",CCTV5+-体育赛事-江西移动
+http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225706/index.m3u8
+
+#EXTINF:-1 tvg-id="7" tvg-name="CCTV6" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" group-title="CCTV",CCTV6-电影-江西移动
+http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225632/index.m3u8
+
+#EXTINF:-1 tvg-id="9" tvg-name="CCTV8" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV8.png" group-title="CCTV",CCTV8-电视剧-江西移动
+http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225635/index.m3u8
+
+#EXTINF:-1 tvg-id="10" tvg-name="CCTV9" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV9.png" group-title="CCTV",CCTV9-纪录-江西移动
+http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225646/index.m3u8
+
+#EXTINF:-1 tvg-id="14" tvg-name="CCTV13" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" group-title="CCTV",CCTV13-新闻-江西移动
+http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225638/index.m3u8
+
+#EXTINF:-1 tvg-id="7249" tvg-name="CCTV16" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="CCTV",CCTV16-奥林匹克-江西移动
+http://[2409:8087:2001:20:2800:0:df6e:eb18]/ott.mobaibox.com/PLTV/3/224/3221228127/index.m3u8
+
+#EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="CCTV",湖南卫视-江西移动
+http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225745/index.m3u8
+
+#EXTINF:-1 tvg-id="31" tvg-name="东方卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png" group-title="CCTV",东方卫视-江西移动
+http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225658/index.m3u8
+
+#EXTINF:-1 tvg-id="28" tvg-name="浙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/zhejiang.png" group-title="CCTV",浙江卫视-江西移动
+http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225744/index.m3u8
+
+#EXTINF:-1 tvg-id="29" tvg-name="江苏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangsu.png" group-title="CCTV",江苏卫视-江西移动
+http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225743/index.m3u8
+
+
+
+
+
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="CCTV",CCTV1-综合-湖南衡阳 
+http://[2409:8087:5050:20::3023]/180000001001/00000001000000001001000000000036/main.m3u8?IASHttpSessionId=OTT
+
+#EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="CCTV",CCTV2-财经-湖南衡阳 
+http://[2409:8087:5050:20::3023]/180000001001/00000001000000001001000000000050/main.m3u8?IASHttpSessionId=OTT
+
+#EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" group-title="CCTV",CCTV4-国际-湖南衡阳 
+http://[2409:8087:5050:20::3023]/180000001001/00000001000000001001000000000052/main.m3u8?IASHttpSessionId=OTT
+
+#EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="CCTV",CCTV5-体育-湖南衡阳
+http://[2409:8087:5050:20::3023]/180000001001/00000001000000001001000000000053/main.m3u8?IASHttpSessionId=OTT
+
+#EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="CCTV",CCTV5+-体育赛事-湖南衡阳
+http://[2409:8087:5050:20::3023]/180000001001/00000001000000001001000000000061/main.m3u8?IASHttpSessionId=OTT
+
+#EXTINF:-1 tvg-id="7" tvg-name="CCTV6" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" group-title="CCTV",CCTV6-电影-湖南衡阳
+http://[2409:8087:5050:20::3023]/180000001001/00000001000000001001000000000054/main.m3u8?IASHttpSessionId=OTT
+
+#EXTINF:-1 tvg-id="9" tvg-name="CCTV8" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV8.png" group-title="CCTV",CCTV8-电视剧-湖南衡阳
+http://[2409:8087:5050:20::3023]/180000001001/00000001000000001001000000000056/main.m3u8?IASHttpSessionId=OTT
+
+#EXTINF:-1 tvg-id="10" tvg-name="CCTV9" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV9.png" group-title="CCTV",CCTV9-纪录-湖南衡阳
+http://[2409:8087:5050:20::3023]/180000001001/00000001000000001001000000000057/main.m3u8?IASHttpSessionId=OTT
+
+#EXTINF:-1 tvg-id="14" tvg-name="CCTV13" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" group-title="CCTV",CCTV13-新闻-湖南衡阳
+http://[2409:8087:5050:20::3023]/180000001001/00000001000000000045000000287929/main.m3u8?IASHttpSessionId=OTT
+
+#EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="CCTV",湖南卫视-湖南衡阳
+http://[2409:8087:5050:20::3023]/180000001001/00000001000000001001000000000035/main.m3u8?IASHttpSessionId=OTT
+
+#EXTINF:-1 tvg-id="31" tvg-name="东方卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png" group-title="CCTV",东方卫视-湖南衡阳
+http://[2409:8087:5050:20::3023]/180000001001/00000001000000001001000000000064/main.m3u8?IASHttpSessionId=OTT
+
+#EXTINF:-1 tvg-id="28" tvg-name="浙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/zhejiang.png" group-title="CCTV",浙江卫视-湖南衡阳
+http://[2409:8087:5050:20::3023]/180000001001/00000001000000001001000000000042/main.m3u8?IASHttpSessionId=OTT
+
+#EXTINF:-1 tvg-id="29" tvg-name="江苏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangsu.png" group-title="CCTV",江苏卫视-湖南衡阳
+http://[2409:8087:5050:20::3023]/180000001001/00000001000000001001000000000043/main.m3u8?IASHttpSessionId=OTT
