@@ -1,5 +1,6 @@
 #EXTM3U x-tvg-url="https://epg.112114.xyz/pp.xml"
 
+#####https://raw.githubusercontent.com/v6wind/M3U/main/IPTV6.m3u
 
 #···········································HK···········································
 
@@ -255,11 +256,11 @@ http://epg.112114.xyz/douyu/3870925
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://nos.gameyw.netease.com/gameyw-gbox/1452660377686_xyrihe.jpg" group-title="Movie",MV-周杰伦-斗鱼
 http://epg.112114.xyz/douyu/7537296
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://nos.gameyw.netease.com/gameyw-gbox/1452660377686_xyrihe.jpg" group-title="Movie",MV-女团-斗鱼
-http://epg.112114.xyz/douyu/340224
+#####EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://nos.gameyw.netease.com/gameyw-gbox/1452660377686_xyrihe.jpg" group-title="Movie",MV-女团-斗鱼
+#####http://epg.112114.xyz/douyu/340224
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://nos.gameyw.netease.com/gameyw-gbox/1452660377686_xyrihe.jpg" group-title="Movie",MV-最强女团-斗鱼
-http://epg.112114.xyz/douyu/329667
+#####EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://nos.gameyw.netease.com/gameyw-gbox/1452660377686_xyrihe.jpg" group-title="Movie",MV-最强女团-斗鱼
+#####http://epg.112114.xyz/douyu/329667
 
 
 #···········································ACG···········································
