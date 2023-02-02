@@ -13,6 +13,9 @@ http://159.75.85.63:5681/sxg.php
 
 #···········································Huya···········································
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://d2gynsnnx1ixn5.cloudfront.net/29l62/2qwk2/images/logo@2x-1664509037.png" group-title="Movie",金马影院
+http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.pngkit.com/png/full/42-424742_huya-.png" group-title="Movie",热播大片
 http://txtest-xp2p.p2p.huya.com/src/1423782052-1423782052-6115097349971771392-2847687560-10057-A-0-1.xs
 
@@ -128,47 +131,6 @@ http://epg.112114.xyz/douyu/20415
 ######EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://nos.gameyw.netease.com/gameyw-gbox/1452660377686_xyrihe.jpg" group-title="Movie",欧美-小小-斗鱼
 ######http://epg.112114.xyz/douyu/5802446
 
-
-#···········································Mandarin···········································
-
-
-######EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://nos.gameyw.netease.com/gameyw-gbox/1452660377686_xyrihe.jpg" group-title="Movie",国语-小鸽-斗鱼
-######http://epg.112114.xyz/douyu/3928
-
-######EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://nos.gameyw.netease.com/gameyw-gbox/1452660377686_xyrihe.jpg" group-title="Movie",国语-米虫-斗鱼
-######http://epg.112114.xyz/douyu/315457
-
-######EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://nos.gameyw.netease.com/gameyw-gbox/1452660377686_xyrihe.jpg" group-title="Movie",国语-瑶瑶-斗鱼
-######http://epg.112114.xyz/douyu/2935323
-
-######EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://nos.gameyw.netease.com/gameyw-gbox/1452660377686_xyrihe.jpg" group-title="Movie",国语-表妹-斗鱼
-######http://epg.112114.xyz/douyu/5423
-
-######EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://nos.gameyw.netease.com/gameyw-gbox/1452660377686_xyrihe.jpg" group-title="Movie",国语-恐怖-斗鱼
-######http://epg.112114.xyz/douyu/310926
-
-######EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://nos.gameyw.netease.com/gameyw-gbox/1452660377686_xyrihe.jpg" group-title="Movie",国语剧-辰辰-斗鱼
-######http://epg.112114.xyz/douyu/7623292
-
-######EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://nos.gameyw.netease.com/gameyw-gbox/1452660377686_xyrihe.jpg" group-title="Movie",国语剧-赛亚人-斗鱼
-######http://epg.112114.xyz/douyu/4373285
-
-######EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://nos.gameyw.netease.com/gameyw-gbox/1452660377686_xyrihe.jpg" group-title="Movie",国语剧-童年-斗鱼
-######http://epg.112114.xyz/douyu/6712083
-
-######EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://nos.gameyw.netease.com/gameyw-gbox/1452660377686_xyrihe.jpg" group-title="Movie",国语剧-橙記-斗鱼
-######http://epg.112114.xyz/douyu/4549169
-
-#···········································RunningMan···········································
-
-
-######EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://nos.gameyw.netease.com/gameyw-gbox/1452660377686_xyrihe.jpg" group-title="Movie",RM-轮播-斗鱼
-######http://epg.112114.xyz/douyu/7298973
-
-######EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://nos.gameyw.netease.com/gameyw-gbox/1452660377686_xyrihe.jpg" group-title="Movie",RM-直播-斗鱼
-######http://epg.112114.xyz/douyu/131977
-
-
 #···········································Documentary···········································
 
 
@@ -186,15 +148,6 @@ http://epg.112114.xyz/douyu/4837387
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://nos.gameyw.netease.com/gameyw-gbox/1452660377686_xyrihe.jpg" group-title="Movie",纪录片-宁波-斗鱼
 http://epg.112114.xyz/douyu/1052924
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://nos.gameyw.netease.com/gameyw-gbox/1452660377686_xyrihe.jpg" group-title="Movie",纪录片-军武-斗鱼
-http://epg.112114.xyz/douyu/227670
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://nos.gameyw.netease.com/gameyw-gbox/1452660377686_xyrihe.jpg" group-title="Movie",纪录片-咸鱼-斗鱼
-http://epg.112114.xyz/douyu/442280
-
-######EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://nos.gameyw.netease.com/gameyw-gbox/1452660377686_xyrihe.jpg" group-title="Movie",纪录片-酷炫-斗鱼
-######http://epg.112114.xyz/douyu/454867
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://nos.gameyw.netease.com/gameyw-gbox/1452660377686_xyrihe.jpg" group-title="Movie",纪录片-黄粱一梦-斗鱼
 http://epg.112114.xyz/douyu/9650849
