@@ -16,11 +16,11 @@ http://159.75.85.63:5681/sxg.php
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://d2gynsnnx1ixn5.cloudfront.net/29l62/2qwk2/images/logo@2x-1664509037.png" group-title="Movie",金马影院
 http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.pngkit.com/png/full/42-424742_huya-.png" group-title="Movie",热播大片
-http://txtest-xp2p.p2p.huya.com/src/1423782052-1423782052-6115097349971771392-2847687560-10057-A-0-1.xs
+######EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.pngkit.com/png/full/42-424742_huya-.png" group-title="Movie",热播大片
+######http://txtest-xp2p.p2p.huya.com/src/1423782052-1423782052-6115097349971771392-2847687560-10057-A-0-1.xs
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.pngkit.com/png/full/42-424742_huya-.png" group-title="Movie",周星驰「粤语」
-http://txtest-xp2p.p2p.huya.com/src/1250011-1250011-5368756364640256-2777036638-10057-A-0-1.xs
+######EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.pngkit.com/png/full/42-424742_huya-.png" group-title="Movie",周星驰「粤语」
+######http://txtest-xp2p.p2p.huya.com/src/1250011-1250011-5368756364640256-2777036638-10057-A-0-1.xs
 
 #···········································Canton···········································
 
