@@ -174,3 +174,34 @@ http://epg.112114.xyz/douyu/7537296
 #####EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://nos.gameyw.netease.com/gameyw-gbox/1452660377686_xyrihe.jpg" group-title="Movie",MV-最强女团-斗鱼
 #####http://epg.112114.xyz/douyu/329667
 
+#···········································MIGU···········································
+
+#EXTINF:-1 tvg-id="" tvg-name="咪咕1" tvg-logo="http://store-images.s-microsoft.com/image/apps.11922.13696860357641121.5b001092-9731-4792-9b5f-234f85e0a1a0.e99f604f-b9d6-4bd0-a6cd-6f31750b39c6" group-title="MIGU",MIGU1
+http://39.135.134.67/000000001000/3000000001000028638/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="咪咕2" tvg-logo="http://store-images.s-microsoft.com/image/apps.11922.13696860357641121.5b001092-9731-4792-9b5f-234f85e0a1a0.e99f604f-b9d6-4bd0-a6cd-6f31750b39c6" group-title="MIGU",MIGU2
+http://39.135.134.67/000000001000/3000000001000008379/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="咪咕3" tvg-logo="http://store-images.s-microsoft.com/image/apps.11922.13696860357641121.5b001092-9731-4792-9b5f-234f85e0a1a0.e99f604f-b9d6-4bd0-a6cd-6f31750b39c6" group-title="MIGU",MIGU3
+http://39.135.134.67/000000001000/3000000001000008001/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="咪咕4" tvg-logo="http://store-images.s-microsoft.com/image/apps.11922.13696860357641121.5b001092-9731-4792-9b5f-234f85e0a1a0.e99f604f-b9d6-4bd0-a6cd-6f31750b39c6" group-title="MIGU",MIGU4
+http://39.135.134.67/000000001000/3000000001000031494/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="咪咕5" tvg-logo="http://store-images.s-microsoft.com/image/apps.11922.13696860357641121.5b001092-9731-4792-9b5f-234f85e0a1a0.e99f604f-b9d6-4bd0-a6cd-6f31750b39c6" group-title="MIGU",MIGU5
+http://39.135.134.67/000000001000/3000000001000008176/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="咪咕6" tvg-logo="http://store-images.s-microsoft.com/image/apps.11922.13696860357641121.5b001092-9731-4792-9b5f-234f85e0a1a0.e99f604f-b9d6-4bd0-a6cd-6f31750b39c6" group-title="MIGU",MIGU6
+http://39.135.134.67/000000001000/3000000001000010948/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="咪咕7" tvg-logo="http://store-images.s-microsoft.com/image/apps.11922.13696860357641121.5b001092-9731-4792-9b5f-234f85e0a1a0.e99f604f-b9d6-4bd0-a6cd-6f31750b39c6" group-title="MIGU",MIGU7
+http://39.135.134.67/000000001000/3000000001000007218/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="咪咕8" tvg-logo="http://store-images.s-microsoft.com/image/apps.11922.13696860357641121.5b001092-9731-4792-9b5f-234f85e0a1a0.e99f604f-b9d6-4bd0-a6cd-6f31750b39c6" group-title="MIGU",MIGU8
+http://39.135.134.67/000000001000/3000000001000005308/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="咪咕9" tvg-logo="http://store-images.s-microsoft.com/image/apps.11922.13696860357641121.5b001092-9731-4792-9b5f-234f85e0a1a0.e99f604f-b9d6-4bd0-a6cd-6f31750b39c6" group-title="MIGU",MIGU9
+http://39.135.134.67/000000001000/3000000001000005969/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="咪咕10" tvg-logo="http://store-images.s-microsoft.com/image/apps.11922.13696860357641121.5b001092-9731-4792-9b5f-234f85e0a1a0.e99f604f-b9d6-4bd0-a6cd-6f31750b39c6" group-title="MIGU",MIGU10
+http://39.135.134.67/000000001000/3000000001000026778/index.m3u8
