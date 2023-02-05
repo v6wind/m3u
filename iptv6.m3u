@@ -38,6 +38,9 @@ http://epg.112114.xyz/douyu/1226741
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.pngkit.com/png/full/42-424742_huya-.png" group-title="Movie",周星驰「粤语」-虎牙
 http://epg.112114.xyz/huya/11336587
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.pngkit.com/png/full/42-424742_huya-.png" group-title="Movie",欧美-热播大片-虎牙
+http://epg.112114.xyz/huya/11352887
+
 #···········································DOUYU···········································
 
 ######EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://nos.gameyw.netease.com/gameyw-gbox/1452660377686_xyrihe.jpg" group-title="Movie",电影-花卷-斗鱼
