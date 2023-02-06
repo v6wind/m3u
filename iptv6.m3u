@@ -41,6 +41,21 @@ http://epg.112114.xyz/huya/11336587
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.pngkit.com/png/full/42-424742_huya-.png" group-title="Movie",欧美-热播大片-虎牙
 http://epg.112114.xyz/huya/11352887
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.pngkit.com/png/full/42-424742_huya-.png" group-title="Movie",欧美-大铁锅-虎牙
+http://epg.112114.xyz/huya/21059574
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.pngkit.com/png/full/42-424742_huya-.png" group-title="Movie",电影-个人-虎牙
+http://epg.112114.xyz/huya/11352963
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.pngkit.com/png/full/42-424742_huya-.png" group-title="Movie",电影-思考-虎牙
+http://epg.112114.xyz/huya/21059592
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.pngkit.com/png/full/42-424742_huya-.png" group-title="Movie",电影-梦里-虎牙
+http://epg.112114.xyz/huya/21059587
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.pngkit.com/png/full/42-424742_huya-.png" group-title="Movie",电影-宝贝-虎牙
+http://epg.112114.xyz/huya/21059552
+
 #···········································DOUYU···········································
 
 ######EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://nos.gameyw.netease.com/gameyw-gbox/1452660377686_xyrihe.jpg" group-title="Movie",电影-花卷-斗鱼
