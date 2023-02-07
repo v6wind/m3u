@@ -18,18 +18,11 @@ http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 
 #···········································HUYA···········································
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.pngkit.com/png/full/42-424742_huya-.png" group-title="Movie",热播大片-虎牙
-http://epg.112114.xyz/huya/11352887
+######EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.pngkit.com/png/full/42-424742_huya-.png" group-title="Movie",热播大片-虎牙
+######http://epg.112114.xyz/huya/11352887
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.pngkit.com/png/full/42-424742_huya-.png" group-title="Movie",谍战片-虎牙
-http://epg.112114.xyz/huya/21059587
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.pngkit.com/png/full/42-424742_huya-.png" group-title="Movie",美食纪录片-虎牙
-http://epg.112114.xyz/huya/11352955
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.pngkit.com/png/full/42-424742_huya-.png" group-title="Movie",周星驰「粤语」-虎牙
-http://epg.112114.xyz/huya/11336587
-
+######EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.pngkit.com/png/full/42-424742_huya-.png" group-title="Movie",周星驰「粤语」-虎牙
+######http://epg.112114.xyz/huya/11336587
 
 #···········································Canton···········································
 
