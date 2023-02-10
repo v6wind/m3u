@@ -214,9 +214,6 @@ https://live.v1.mk/api/bestv.php?id=cctv8hd8m/8000000
 #EXTINF:-1,tvg-id="" tvg-name="CCTV9" tvg-logo="https://epg.112114.xyz/logo/CCTV9.png" group-title="CCTV",CCTV9-纪录-BESTV
 https://live.v1.mk/api/bestv.php?id=cctv9hd8m/8000000
 
-#EXTINF:-1,tvg-id="" tvg-name="CCTV10" tvg-logo="https://epg.112114.xyz/logo/CCTV10.png" group-title="CCTV",CCTV10-BESTV
-https://live.v1.mk/api/bestv.php?id=cctv10hd8m/8000000
-
 #EXTINF:-1,tvg-id="" tvg-name="CCTV13" tvg-logo="https://epg.112114.xyz/logo/CCTV13.png" group-title="CCTV",CCTV13-新闻-BESTV
 https://live.v1.mk/api/bestv.php?id=cctv13xwhd8m/8000000
 
