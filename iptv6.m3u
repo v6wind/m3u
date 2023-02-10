@@ -182,6 +182,59 @@ http://epg.112114.xyz/douyu/7537296
 #####EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://nos.gameyw.netease.com/gameyw-gbox/1452660377686_xyrihe.jpg" group-title="Movie",MV-最强女团-斗鱼
 #####http://epg.112114.xyz/douyu/329667
 
+#···········································CCTV-IPV4···········································
+
+#EXTINF:-1,tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://epg.112114.xyz/logo/凤凰资讯.png" group-title="CCTV",凤凰资讯
+http://play-live.ifeng.com/live/06OLEEWQKN4.m3u8
+
+#EXTINF:-1,tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://epg.112114.xyz/logo/凤凰中文.png" group-title="CCTV",凤凰中文
+http://play-live.ifeng.com/live/06OLEGEGM4G.m3u8
+
+#EXTINF:-1,tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://epg.112114.xyz/logo/CCTV1.png" group-title="CCTV",CCTV1-综合-BESTV
+https://live.v1.mk/api/bestv.php?id=cctv1hd8m/8000000
+
+#EXTINF:-1,tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://epg.112114.xyz/logo/CCTV2.png" group-title="CCTV",CCTV2-财经-BESTV
+https://live.v1.mk/api/bestv.php?id=cctv2hd8m/8000000
+
+#EXTINF:-1,tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://epg.112114.xyz/logo/CCTV4.png" group-title="CCTV",CCTV4-国际-BESTV
+https://live.v1.mk/api/bestv.php?id=cctv4hd8m/8000000
+
+#EXTINF:-1,tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://epg.112114.xyz/logo/CCTV5.png" group-title="CCTV",CCTV5-体育-BESTV
+https://live.v1.mk/api/bestv.php?id=cctv58m/8000000
+
+#EXTINF:-1,tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://epg.112114.xyz/logo/CCTV5+.png" group-title="CCTV",CCTV5+-体育赛事-BESTV
+https://live.v1.mk/api/bestv.php?id=cctv5phd8m/8000000
+
+#EXTINF:-1,tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://epg.112114.xyz/logo/CCTV6.png" group-title="CCTV",CCTV6-电影-BESTV
+https://live.v1.mk/api/bestv.php?id=cctv6hd8m/8000000
+
+#EXTINF:-1,tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="https://epg.112114.xyz/logo/CCTV8.png" group-title="CCTV",CCTV8-电视剧-BESTV
+https://live.v1.mk/api/bestv.php?id=cctv8hd8m/8000000
+
+#EXTINF:-1,tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="https://epg.112114.xyz/logo/CCTV9.png" group-title="CCTV",CCTV9-纪录-BESTV
+https://live.v1.mk/api/bestv.php?id=cctv9hd8m/8000000
+
+#EXTINF:-1,tvg-id="CCTV10" tvg-name="CCTV10" tvg-logo="https://epg.112114.xyz/logo/CCTV10.png" group-title="CCTV",CCTV10-BESTV
+https://live.v1.mk/api/bestv.php?id=cctv10hd8m/8000000
+
+#EXTINF:-1,tvg-id="CCTV11" tvg-name="CCTV13" tvg-logo="https://epg.112114.xyz/logo/CCTV13.png" group-title="CCTV",CCTV13-新闻-BESTV
+https://live.v1.mk/api/bestv.php?id=cctv13xwhd8m/8000000
+
+#EXTINF:-1,tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://epg.112114.xyz/logo/CCTV16.png" group-title="CCTV",CCTV16-奥林匹克-BESTV
+https://live.v1.mk/api/bestv.php?id=cctv16hd8m/8000000
+
+#EXTINF:-1,tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://epg.112114.xyz/logo/湖南卫视.png" group-title="CCTV",湖南卫视-BESTV
+https://live.v1.mk/api/bestv.php?id=hunanwshd8m/8000000
+
+#EXTINF:-1,tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://epg.112114.xyz/logo/东方卫视.png" group-title="CCTV",东方卫视-BESTV
+https://live.v1.mk/api/bestv.php?id=dfwshd8m/8000000
+
+#EXTINF:-1,tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://epg.112114.xyz/logo/浙江卫视.png" group-title="CCTV",浙江卫视-BESTV
+https://live.v1.mk/api/bestv.php?id=zjwshd8m/8000000
+
+#EXTINF:-1,tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://epg.112114.xyz/logo/江苏卫视.png" group-title="CCTV",江苏卫视-BESTV
+https://live.v1.mk/api/bestv.php?id=jswshd8m/8000000
+
 #···········································MIGU···········································
 
 #EXTINF:-1 tvg-id="" tvg-name="咪咕1" tvg-logo="http://store-images.s-microsoft.com/image/apps.11922.13696860357641121.5b001092-9731-4792-9b5f-234f85e0a1a0.e99f604f-b9d6-4bd0-a6cd-6f31750b39c6" group-title="MIGU",MIGU1
