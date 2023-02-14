@@ -44,21 +44,6 @@ http://epg.112114.xyz/douyu/1226741
 
 #···········································DOUYU···········································
 
-######EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://nos.gameyw.netease.com/gameyw-gbox/1452660377686_xyrihe.jpg" group-title="Movie",电影-花卷-斗鱼
-######http://epg.112114.xyz/douyu/52787
-
-######EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://nos.gameyw.netease.com/gameyw-gbox/1452660377686_xyrihe.jpg" group-title="Movie",电影-蚂蚱-斗鱼
-######http://epg.112114.xyz/douyu/6621
-
-######EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://nos.gameyw.netease.com/gameyw-gbox/1452660377686_xyrihe.jpg" group-title="Movie",电影-姽婳-斗鱼
-######http://epg.112114.xyz/douyu/1409682
-
-######EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://nos.gameyw.netease.com/gameyw-gbox/1452660377686_xyrihe.jpg" group-title="Movie",电影-小栗子-斗鱼
-######http://epg.112114.xyz/douyu/7254536
-
-
-
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://nos.gameyw.netease.com/gameyw-gbox/1452660377686_xyrihe.jpg" group-title="Movie",豆瓣高分-斗鱼
 http://epg.112114.xyz/douyu/8770422
 
@@ -103,9 +88,6 @@ http://epg.112114.xyz/douyu/4332
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://nos.gameyw.netease.com/gameyw-gbox/1452660377686_xyrihe.jpg" group-title="Movie",电影-小U-斗鱼
 http://epg.112114.xyz/douyu/96577
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://nos.gameyw.netease.com/gameyw-gbox/1452660377686_xyrihe.jpg" group-title="Movie",电影-小鸭-斗鱼
-http://epg.112114.xyz/douyu/7925840
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://nos.gameyw.netease.com/gameyw-gbox/1452660377686_xyrihe.jpg" group-title="Movie",电影-贝贝-斗鱼
 http://epg.112114.xyz/douyu/431460
