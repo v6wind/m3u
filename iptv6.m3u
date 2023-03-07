@@ -16,14 +16,6 @@ http://159.75.85.63:5681/sxg.php
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://d2gynsnnx1ixn5.cloudfront.net/29l62/2qwk2/images/logo@2x-1664509037.png" group-title="Movie",金马影院
 http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 
-#···········································HUYA···········································
-
-######EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.pngkit.com/png/full/42-424742_huya-.png" group-title="Movie",热播大片-虎牙
-######http://epg.112114.xyz/huya/11352887
-
-######EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.pngkit.com/png/full/42-424742_huya-.png" group-title="Movie",周星驰「粤语」-虎牙
-######http://epg.112114.xyz/huya/11336587
-
 #···········································Canton···········································
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://nos.gameyw.netease.com/gameyw-gbox/1452660377686_xyrihe.jpg" group-title="Movie",粤语-超甜-斗鱼
@@ -34,6 +26,9 @@ http://epg.112114.xyz/douyu/5033502
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://nos.gameyw.netease.com/gameyw-gbox/1452660377686_xyrihe.jpg" group-title="Movie",粤语电影-斗鱼
 http://epg.112114.xyz/douyu/1226741
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://nos.gameyw.netease.com/gameyw-gbox/1452660377686_xyrihe.jpg" group-title="Movie",粤语动漫-大叔-斗鱼
+http://epg.112114.xyz/douyu/6462389
 
 ######EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://nos.gameyw.netease.com/gameyw-gbox/1452660377686_xyrihe.jpg" group-title="Movie",粤语剧-豆腐帮-斗鱼
 ######http://epg.112114.xyz/douyu/6478650
